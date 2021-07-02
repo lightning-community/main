@@ -614,6 +614,13 @@ section {
   text-decoration: none;
 }
 
+.resp-container {
+  position: relative;
+  overflow: hidden;
+  left: 250px;
+  padding-right: 0%;
+}
+
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
